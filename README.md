@@ -4,9 +4,11 @@
         <td colspan="4"><h1>Maksym Pedych</h1></td>
     </tr>
     <tr>
+        <td colspan="4"><h4>Software Developer. Ukraine</h4></td>
+    </tr>
+    <tr>
         <td colspan="2">
             <ul>
-                <li>Software Developer. Kharkov</li>
                 <li>+38 (096) 56-50-440</li>
                 <li>maksym.pedych[at]gmail.com</li>
             </ul>
