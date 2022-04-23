@@ -26,13 +26,11 @@
     <tr>
         <td colspan="2">
             <ul>
-                <li>Java SE (Java Core)</li>
-                <li>XML, JSON</li>
-                <li>JDBC, SQL</li>
-                <li>Cassandra</li>
-                <li>Jagger</li>
-                <li>Servlets API, RESTful architecture/li>
-                <li>Spring Framework (JDBCTemplate, IoC, Security)</li>
+                <li>Java</li>
+                <li>Relational databases</li>
+                <li>NoSQL databases</li>
+                <li>Jagger / Gatling</li>
+                <li>Spring</li>
             </ul>
         </td>
         <td colspan="2">
@@ -42,19 +40,12 @@
                 <li>Dynatrace APM</li>
                 <li>Splunk</li>
                 <li>Maven, Jenkins</li>
-                <li>Python</li>
-                <li>Django</li>
             </ul>
         </td>
     </tr>
     <tr>
         <td colspan="4">
             <div>
-                <h2>Education</h2>
-                <ul>
-                    <li>Kharkiv National University of Radioelectronics, Specialized Computer Systems, Master Computer System and Networks 2011 – 2012.</li>
-                    <li>Kryvyi Rih National University, Computer Engineering, Bachelor of Computer Equipment 2007 – 2011.</li>
-                </ul>
                 <h2>Experience</h2>
                 <h3>Python developer at GridDynamics (February 2018 – present)</h3>
                 <p>
@@ -81,6 +72,11 @@
                 <p>
                     Used: Google Web Toolkit, GWT-Platform, Gin, Guice, Sencha GXT, mgwt, simpleframework.
                 </p>
+                <h2>Education</h2>
+                <ul>
+                    <li>Kharkiv National University of Radioelectronics, Specialized Computer Systems, Master Computer System and Networks 2011 – 2012.</li>
+                    <li>Kryvyi Rih National University, Computer Engineering, Bachelor of Computer Equipment 2007 – 2011.</li>
+                </ul>
             </div>
         </td>
     </tr>
