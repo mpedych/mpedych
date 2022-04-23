@@ -13,8 +13,8 @@
         </td>
         <td colspan="2">
             <ul>
-                <li>linkedin.com/in/mpedych</li>
-                <li>github.com/mpedych</li>
+                <li><a href="https://linkedin.com/in/mpedych">linkedin.com/in/mpedych</a></li>
+                <li><a href="https://github.com/mpedych">github.com/mpedych</a></li>
             </ul>
         </td>
     </tr>
@@ -50,7 +50,6 @@
             <div>
                 <h2>Education</h2>
                 <ul>
-                    <li>Epam Systems Academy, Java training February 2013 – May 2013.</li>
                     <li>Kharkiv National University of Radioelectronics, Specialized Computer Systems, Master Computer System and Networks 2011 – 2012.</li>
                     <li>Kryvyi Rih National University, Computer Engineering, Bachelor of Computer Equipment 2007 – 2011.</li>
                 </ul>
