@@ -45,7 +45,7 @@
         <td colspan="4">
             <div>
                 <h2>Experience</h2>
-                <h3>Java developer at GridDynamics (May 2018 – Present)</h3>
+                <h3>Java developer at GridDynamics (May 2020 – Present)</h3>
                 <p>
                     My role is a backend developer. I'm responsible for supporting existing services and designing/developing new ones according to business requirements.
                 </p>
