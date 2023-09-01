@@ -28,9 +28,8 @@
             <ul>
                 <li>Java</li>
                 <li>Relational databases / NoSQL databases</li>
-                <li>Unit Testing</li>
+                <li>Unit Testing / Functional Testing / Regression testing</li>
                 <li>Load / Performance / Stress testing</li>
-                <li>Functional Testing</li>
             </ul>
         </td>
         <td colspan="2">
