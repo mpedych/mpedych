@@ -47,7 +47,7 @@
                 <h2>Experience</h2>
                 <h3>Java developer at GridDynamics (May 2018 – Present)</h3>
                 <p>
-                    My role is a backend developer. I'm responsible for supporting existing services and designing and developing new ones according to business requirements.
+                    My role is a backend developer. I'm responsible for supporting existing services and designing/developing new ones according to business requirements.
                 </p>
                 <p>
              Technology stack: Java8 / Java 11, Python, Google Cloud Platform (DataFlow jobs, BigQuery, Monitoring Dashboards, StackDriver, Pub/Sub, etc.), Maven / Gradle, Junit / TestNG, Cucumber, Docker, NeoLoad, Concourse CI, Cassandra       
