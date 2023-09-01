@@ -27,19 +27,19 @@
         <td colspan="2">
             <ul>
                 <li>Java</li>
-                <li>Relational databases</li>
-                <li>NoSQL databases</li>
-                <li>Jagger / Gatling</li>
-                <li>Spring</li>
+                <li>Relational databases / NoSQL databases</li>
+                <li>Unit Testing</li>
+                <li>Load / Performance / Stress testing</li>
+                <li>Functional Testing</li>
             </ul>
         </td>
         <td colspan="2">
             <ul>
-                <li>Google Web Toolkit, GWT-Platform, Gin, Guice, Sencha GXT, mgwt</li>
-                <li>JUnit</li>
-                <li>Dynatrace APM</li>
-                <li>Splunk</li>
-                <li>Maven, Jenkins</li>
+                <li>Cloud Platforms</li>
+                <li>Root Cause Analysis</li>
+                <li>Cloud log management solutions</li>
+                <li>CI/CD</li>
+                <li></li>
             </ul>
         </td>
     </tr>
@@ -47,7 +47,15 @@
         <td colspan="4">
             <div>
                 <h2>Experience</h2>
-                <h3>Python developer at GridDynamics (February 2018 – present)</h3>
+                <h3>Java developer at GridDynamics (May 2018 – Present)</h3>
+                <p>
+                    My role is a backend developer. I'm responsible for supporting existing services and designing and developing new ones according to business requirements. Technology stack: Java8 / Java 11, Python, Google Cloud Platform (DataFlow jobs, BigQuery, Monitoring Dashboards, StackDriver, Pub/Sub, etc.), Maven / Gradle, Junit / TestNG, Cucumber, Docker, NeoLoad, Concourse CI, Cassandra
+                </p>
+                <h3>Cloud Engineer at GridDynamics (May 2018 – May 2020)</h3>
+                <p>
+                    I was a part of a cloud team responsible for Apigee API management system. The team was combined with 50% developers and 50% DevOps engineers. We migrated Apigee to Azure and supported it. Technology stack: Java, Python, Groovy, Scala, Azure, Gradle, Bash Scripts.
+                </p>
+                <h3>Python developer at GridDynamics (February 2018 – May 2018)</h3>
                 <p>
                     I was working as a backend developer in Python stack for an NLU project. It was a classical client-server application with SQL DB underhood. Key development framework was Django.
                 </p>
