@@ -38,7 +38,6 @@
                 <li>Root Cause Analysis</li>
                 <li>Cloud log management solutions</li>
                 <li>CI/CD</li>
-                <li></li>
             </ul>
         </td>
     </tr>
