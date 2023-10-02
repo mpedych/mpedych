@@ -20,6 +20,9 @@
             </ul>
         </td>
     </tr>
+        <tr>
+        <td colspan="4"><h2>Profile</h2></td>
+    </tr>
     <tr>
         <td colspan="4"><h2>Technology stack</h2></td>
     </tr>
