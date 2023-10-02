@@ -21,7 +21,13 @@
         </td>
     </tr>
         <tr>
-        <td colspan="4"><h2>Profile</h2></td>
+        <td colspan="4">
+            <div>
+                <h2>Profile</h2>
+                A few words about me.
+            </div>
+            <h2>Profile</h2>
+        </td>
     </tr>
     <tr>
         <td colspan="4"><h2>Technology stack</h2></td>
