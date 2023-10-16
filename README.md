@@ -29,18 +29,6 @@
         </td>
     </tr>
     <tr>
-        <td colspan="4">
-            <div>
-                <h2>Languages</h2>
-                <ul>
-                    <li>Ukrainian: Native</li>
-                    <li>English: В2</li>
-                    <li>Russian: Native</li>
-                </ul>
-            </div>
-        </td>
-    </tr>
-    <tr>
         <td colspan="4"><h2>Technology stack</h2></td>
     </tr>
     <tr>
@@ -133,6 +121,18 @@
                     <li>Kryvyi Rih National University, Computer Engineering, Bachelor of Computer Equipment 2007 –
                         2011.
                     </li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="4">
+            <div>
+                <h2>Languages</h2>
+                <ul>
+                    <li>Ukrainian: Native</li>
+                    <li>English: В2</li>
+                    <li>Russian: Native</li>
                 </ul>
             </div>
         </td>
