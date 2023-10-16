@@ -74,7 +74,7 @@ In the project's scope, we developed different tools for internal usage like a t
                 Technology stack: Java, Python, Groovy, Scala, Azure, Gradle, Bash Scripts.  
             </p>
             </p>
-                <h3>Python developer at GridDynamics | Ukraine (July 2018 – May 2019)</h3>
+                <h3>Software developer at GridDynamics | Ukraine (July 2018 – May 2019)</h3>
                 <p>
                     I was working as a backend developer in Python stack for an NLU project. It was a classical client-server application with SQL DB. Key development framework was Django.
                 </p>
