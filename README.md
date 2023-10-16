@@ -53,46 +53,51 @@
         <td colspan="4">
             <div>
                 <h2>Experience</h2>
-                <h3>Java developer at GridDynamics. Ukraine / USA (May 2020 – Present)</h3>
+                <h3>Java developer at GridDynamics. Ukraine / USA (January 2021 – Present)</h3>
                 <p>
-                    My role is a backend developer. I'm responsible for supporting existing services and designing/developing new ones according to business requirements.
+                    A project for a big building and home improvement equipment retail company in the United States that has about 2150 offline stores and a big part of online sales.
+
+My role is a backend developer. I'm responsible for supporting existing services and designing/developing new ones according to business requirements. In the scope of this project, I was responsible for a microservice design from scratch and supporting it in production.
                 </p>
                 <p>
-             Technology stack: Java8 / Java 11, Python, Google Cloud Platform (DataFlow jobs, BigQuery, Monitoring Dashboards, StackDriver, Pub/Sub, etc.), Maven / Gradle, Junit / TestNG, Cucumber, Docker, NeoLoad, Concourse CI, Cassandra       
+             Technology stack: Java8 / Java 11, Python, Cassandra, Google Cloud Platform (DataFlow jobs, BigQuery, Monitoring Dashboards, StackDriver, Pub/Sub, etc.), Maven / Gradle, Junit / TestNG, Cucumber, Docker, NeoLoad, Concourse CI       
                 </p>
-                <h3>Cloud Engineer at GridDynamics. USA (May 2018 – May 2020)</h3>
+                <h3>Software Engineer at GridDynamics. USA (May 2019 – January 2021)</h3>
                 <p>
-                    I was a part of a cloud team responsible for Apigee API management system. The team was combined with 50% developers and 50% DevOps engineers. We migrated Apigee to Azure and supported it.
+                    A project for a big clothes retail company in the United States that has about 3150 offline stores and a big part of online orders.
+I was a part of a team responsible for Apigee API management system. The team was combined with 50% developers and 50% DevOps engineers. We migrated Apigee to Azure and supported it. 
+
+In the project's scope, we developed different tools for internal usage like a tool for checking open network ports in a cloud for future requests to open. We also wrote load tests on Gatling and supported some internal monitoring tools.
                 </p>
             <p>
             <p>
-                Technology stack: Java, Python, Groovy, Scala, Azure, Gradle, Bash Scripts.    
+                Technology stack: Java, Python, Groovy, Scala, Azure, Gradle, Bash Scripts.  
             </p>
             </p>
-                <h3>Python developer at GridDynamics. Ukraine (February 2018 – May 2018)</h3>
+                <h3>Python developer at GridDynamics | Ukraine (July 2018 – May 2019)</h3>
                 <p>
-                    I was working as a backend developer in Python stack for an NLU project. It was a classical client-server application with SQL DB underhood. Key development framework was Django.
+                    I was working as a backend developer in Python stack for an NLU project. It was a classical client-server application with SQL DB. Key development framework was Django.
                 </p>
-                <h3>Site Reliability Engineer at GridDynamics. Ukraine (March 2017 – February 2018)</h3>
+                <h3>Software Developer | USA (February 2018 - July 2018)</h3>
                 <p>
-                    SOC calls support: Most likely, the support is needed when the production experiencing orders drops, especially after the new release deployment. The order drops are very important! and the SRE offshore team should join the call by default to provide the initial cause analysis (ICA). RCA of the Jira issues: providing the Root Cause Analysis (RCA) for the tickets reported to the JIRA.
-                </p>
-                <p>
-                    Technology stack: Dynatrace APM, Splunk, internal tools
-                </p>
-                <h3>Java developer at GridDynamics. Ukraine (January 2015 – March 2017)</h3>
-                <p>
-                    Most of the projects are related to the eCommerce solutions development for online retailers in the United States. Development of web services platform based on NoSQL solutions leveraging distributed processing, synchronous and asynchronous communication with relational database.
+                    Onsite business trip for a project for a big clothes retail company in the United States that has about 850 offline stores and a big part of online orders. I was responsible for release certification in a Learn Lab. I've applied my developer's experience in test automation from scratch and supported existing automation testing solutions.Onsite business trip for a project for a big clothes retail company in the United States that has about 850 offline stores and a big part of online orders. I was responsible for release certification in a Learn Lab. I've applied my developer's experience in test automation from scratch and supported existing automation testing solutions.
                 </p>
                 <p>
-                    Technology stack: Cassandra, Spring IoC, JUnit, Maven, OAuth.
+                    Technology stack: Java, Cucumber, Selenium Testing.
                 </p>
-                <h3>Java developer at CS ltd. Ukraine (June 2013 – January 2015)</h3>
+                <h3>Java Software Developer at GridDynamics | Ukraine (January 2015 – March 2018)</h3>
                 <p>
-                    Development client-side applications on GWT technology including mobile platform. Developed an application for online banking. Took part in development user interface and back end. Implemented considerable part of core business and technical features.
+                    A project for a big clothes retail company in the United States that has about 850 offline stores and a big part of online orders. I was responsible for the development of a web services platform based on NoSQL solutions leveraging distributed processing, and synchronous and asynchronous communication with a relational database.
                 </p>
                 <p>
-                    Technology stack: Google Web Toolkit, GWT-Platform, Gin, Guice, Sencha GXT, mgwt, simpleframework.
+                    Technology stack: Java, Cassandra, Spring Framework, JUnit, Maven, Splunk.
+                </p>
+                <h3>Java Software Developer at CS ltd | Ukraine (June 2013 – January 2015)</h3>
+                <p>
+                    Develop client-side applications on Google Web Toolkit (GWT) including mobile platforms. Developed an application for online banking. Took part in the development user interface and back end. Implemented a considerable part of core business and technical features.
+                </p>
+                <p>
+                    Technology stack: Java, Google Web Toolkit (GWT), Gin, GWT-Platform, Guice, Sencha GXT, Spring Framework.
                 </p>
                 <h2>Education</h2>
                 <ul>
