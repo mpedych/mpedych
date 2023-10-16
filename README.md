@@ -132,7 +132,6 @@
                 <ul>
                     <li>Ukrainian: Native</li>
                     <li>English: В2</li>
-                    <li>Russian: Native</li>
                 </ul>
             </div>
         </td>
