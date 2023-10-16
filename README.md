@@ -69,7 +69,7 @@
                 <p>
                     A project for a big building and home improvement equipment retail company in the United States that
                     has about 2150 offline stores and a big part of online sales.
-
+                    
                     My role is a backend developer. I'm responsible for supporting existing services and
                     designing/developing new ones according to business requirements. In the scope of this project, I
                     was responsible for a microservice design from scratch and supporting it in production.
