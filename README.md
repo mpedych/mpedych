@@ -79,14 +79,7 @@
                 </p>
                 <h3>Software Engineer at GridDynamics | USA🇺🇸 (May 2019 – January 2021)</h3>
                 <p>
-                    A project for a big clothes retail company in the United States that has about 3150 offline stores
-                    and a big part of online orders.
-                    I was a part of a team responsible for Apigee API management system. The team was combined with 50%
-                    developers and 50% DevOps engineers. We migrated Apigee to Azure and supported it.
-
-                    In the project's scope, we developed different tools for internal usage like a tool for checking
-                    open network ports in a cloud for future requests to open. We also wrote load tests on Gatling and
-                    supported some internal monitoring tools.
+                    A project for a big clothes retail company in the United States that has about 3150 offline stores and a big part of online orders. I was a part of a team responsible for Apigee API management system. The team was combined with 50% developers and 50% DevOps engineers. We migrated Apigee to Azure and supported it. In the project's scope, we developed different tools for internal usage like a tool for checking open network ports in a cloud for future requests to open. We also wrote load tests on Gatling and supported some internal monitoring tools.
                 </p>
                 <p>
                 <p>
