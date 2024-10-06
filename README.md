@@ -1,7 +1,4 @@
-<a href="https://u8views.com/github/mpedych"><img src="https://u8views.com/api/v1/github/profiles/60055356/views/day-week-month-total-count.svg"></a>
-<h3 align="left">Connect with me:</h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mpedych/)
+<a href="https://u8views.com/github/mpedych"><img src="https://u8views.com/api/v1/github/profiles/60055356/views/day-week-month-total-count.svg"></a
 
 <table>
     <tbody>
