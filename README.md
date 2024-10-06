@@ -1,4 +1,4 @@
-<a href="https://u8views.com/github/mpedych"><img src="https://u8views.com/api/v1/github/profiles/60055356/views/day-week-month-total-count.svg"></a
+<a href="https://u8views.com/github/mpedych"><img src="https://u8views.com/api/v1/github/profiles/60055356/views/day-week-month-total-count.svg">
 
 <table>
     <tbody>
