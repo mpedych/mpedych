@@ -1,3 +1,5 @@
+<a href="https://u8views.com/github/mpedych"><img src="https://u8views.com/api/v1/github/profiles/60055356/views/day-week-month-total-count.svg"></a>
+
 <table>
     <tbody>
     <tr>
@@ -139,5 +141,3 @@
     </tbody>
 
 </table>
-
-<a href="https://u8views.com/github/mpedych"><img src="https://u8views.com/api/v1/github/profiles/60055356/views/day-week-month-total-count.svg"></a>
