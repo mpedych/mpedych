@@ -6,7 +6,7 @@
         <td colspan="4"><h1>Maksym Pedych</h1></td>
     </tr>
     <tr>
-        <td colspan="4"><h4>Software Developer. Ukraine🇺🇦</h4></td>
+        <td colspan="4"><h4>Senior Java Developer. Ukraine🇺🇦</h4></td>
     </tr>
     <tr>
         <td colspan="2">
