@@ -18,7 +18,6 @@
         <td colspan="2">
             <ul>
                 <li><a href="https://linkedin.com/in/mpedych">linkedin.com/in/mpedych</a></li>
-                <li><a href="https://github.com/mpedych">github.com/mpedych</a></li>
             </ul>
         </td>
     </tr>
